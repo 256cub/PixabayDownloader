@@ -1,0 +1,9 @@
+images/*
+.idea/*
+.zip
+.jpg
+.mp4
+image/*
+video/*
+
+__pycache__/config.cpython-39.pyc
